@@ -30,7 +30,7 @@ It should work on 5.6 as well, but we strongly advise you NOT to run such old ve
 
 ## Some HTTP Status Code 
 
-    **HTTP_OK = 200;
+    HTTP_OK = 200;
     HTTP_CREATED = 201;
     HTTP_NOT_MODIFIED = 304;
     HTTP_BAD_REQUEST = 400;
@@ -39,6 +39,6 @@ It should work on 5.6 as well, but we strongly advise you NOT to run such old ve
     HTTP_NOT_FOUND = 404;
     HTTP_METHOD_NOT_ALLOWED = 405;
     HTTP_NOT_ACCEPTABLE = 406;
-    HTTP_INTERNAL_ERROR = 500;**
+    HTTP_INTERNAL_ERROR = 500;
 
 
